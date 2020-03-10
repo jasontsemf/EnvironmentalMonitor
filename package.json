@@ -8,5 +8,12 @@
     "start": "node index.js"
   },
   "author": "Jason Tse",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "i2c-bus": "^5.1.0",
+    "node-dht-sensor": "^0.4.1",
+    "oled-font-5x7": "^1.0.3",
+    "oled-i2c-bus": "^1.0.11",
+    "rpi-wifi-connection": "^1.0.14"
+  }
 }
